@@ -1,0 +1,530 @@
+/* header */
+
+
+.navimage{
+  margin-top: -15px;
+   
+}
+
+
+.navbar-nav li:hover > ul.dropdown-menu {
+    
+    display: block;
+}
+.dropdown-submenu {
+   
+    position:relative;
+}
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top:-6px;
+}
+
+
+ .dropdown-menu > li > a:hover:after {
+    text-decoration: underline;
+    transform: rotate(-90deg);
+}  
+
+
+
+.search1 {
+    border-radius: 25px;
+    border: 1px solid #313030;
+    padding: 20px; 
+    width: 400px;
+    height: 20px;
+    margin-left:20px;  
+    padding-left: 50px;
+  }
+
+.udemybusinesbtn{
+
+    margin-left: 10px;
+}
+.udemybusinscard{
+    width: 18rem;
+}
+
+.teachudemycard{
+    width: 18rem;
+}
+
+.shopingcartnav{
+
+    margin-left: 10px;
+
+}
+.shopingcartfaicon{
+
+    font-size:24px
+
+}
+
+
+ .sicon1 {
+    position: absolute;
+    padding-top: 12px;
+    padding-left: 40px;
+    color: #828282;
+  }
+
+  .card1{
+     position: absolute;
+     padding-top: 20px;
+     z-index:1111;
+  }
+
+  .cardtext1{
+    width: 100%;
+  }
+
+.shopingcart1{
+    text-decoration: none;
+    color: blue;
+}
+
+.navitemlogin{
+    margin-left:20px;
+
+}
+
+.loginbtn1{
+    border: 1px solid #313030;
+    
+    
+}
+
+.navitemsignup{
+    margin-left:15px;
+
+}
+
+.navitemslangage{
+
+    margin-left: 10px;
+
+}
+/*slider*/
+
+.slide1image{
+
+    width:100%;
+    height: 400px;
+}
+
+.slide2image{
+
+    width:100%;
+    height: 400px;
+}
+
+.slidecard1{
+   
+    width:500px;
+    height:300px;
+    position: absolute;
+    margin-top: -320px;
+    margin-left: 160px;
+
+    
+}
+
+.slidecard2{
+   
+    width:500px;
+    height:300px;
+    position: absolute;
+    margin-top: -320px;
+    margin-left: 160px;
+
+    
+}
+
+/*First Heading*/
+
+.headingc1{
+
+    width:800px;
+    height:100px;
+    margin-top: 40px;
+    margin-left: 30px;
+   
+
+ 
+}
+
+.headingc1 > p{
+
+    font-size: 20px;
+}
+
+
+/*collapse with slider*/
+
+.collapspython{
+
+    padding-right: 360px;
+}
+
+.colapsepython{
+
+    width: 250px;
+    height: 400px;
+}
+
+.pythoncbutton{
+    border: 1px solid #313030;
+}
+
+.star {
+    font-size: 16px;
+    color:#e7ad55;
+    font-weight: 600;
+}
+.enrolno {
+    font-size:14px;
+    color:grey;
+}
+.pricecourse {
+    font-weight: 600;
+    font-size: 20px;
+    color:black;
+}
+
+/*second Heading*/
+
+.headingc2{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+/* Second slider testimonial */
+
+.testimonial1{
+
+    padding-top: 20px;
+}
+
+.testiquote{
+
+    width: 17px;
+    height: 16px;
+    margin-left: -90px;
+}
+
+.browselink > a{
+
+    text-decoration:none;
+}
+
+.testi1 >.item{
+    height:500px;
+    width:240px;
+}
+.testi1 > .item > img{
+    height:300px;
+    width:100%
+}
+
+.browselink > a > span > i{
+
+   padding-left: 10px;
+}
+
+.dotpostion{
+    padding-top: 20px;
+}
+.dot {
+        height: 30px;
+        width: 30px;
+        background-color: #000000;
+        border-radius: 50%;
+        display: inline-block;
+        
+     }
+
+  .dotblue{
+    height: 30px;
+    width: 30px;
+    background-color: #281dc6;
+    border-radius: 50%;
+    display: inline-block;
+    color: aliceblue;
+    
+
+  }   
+
+  /* Third Heading */
+
+  .headingc3{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.courseslide1{
+
+    width: 250px;
+    height: 420px;
+}
+  
+/* Top categories */
+
+.headin1_card1{
+         margin-left: 35px;
+        margin-bottom: 10px;
+        margin-top:10px;
+    
+    
+    }
+
+    .cardspace2{
+
+        padding-top: 30px;
+    }
+
+.card2{
+    width:250px;
+
+}
+
+
+    .card2.zoom {
+  
+ 
+        transition: transform .5s;
+      
+      
+      }
+      
+      .card2.zoom:hover {
+      
+        transform: scale(1.1); 
+      }
+
+      /* Featured topics by category */
+
+      .headingc4{
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+
+    .featurespace1{
+    
+        padding-left:20px
+    }
+
+     .featurepara{
+
+        color: #6a6f73;
+     }
+
+    /* Development button */
+
+    .exploretopic{
+      
+        color: #1c1d1f;
+        background-color: transparent;
+        border: 1px solid #1c1d1f;
+        height: 40px;
+
+    }
+
+    /* banner company */
+
+    .bannerhw{
+
+        padding-top:100px;
+        width: 100%;
+        height:300px
+    }
+
+
+    /* second testinomial */
+
+    .testimonial2{
+
+        border: 1px solid #d1d7dc;
+        margin-top:100px;
+    }
+
+    .testitem1{
+
+        width: 100%;
+        height:300px
+    }
+   
+    .testiquote2{
+
+        width: 17px;
+        height: 16px;
+        
+    }
+
+    .heading6{
+
+        padding-top:30px;
+    }
+
+    .read1{
+
+        padding-top:70px;
+    }
+
+    .photoheadin1{
+
+        margin-top:10px;
+    }
+
+    .photoheadin1 > img{
+
+        margin-left: 200px;
+    }
+       
+    .photoheadpara{
+
+        color: #6a6f73;
+        text-align: center;
+    }
+    
+
+
+    /* View more customer stories */
+
+    .customerstorie{
+
+        width: 100%;
+        height:100px;
+    }
+
+    .customerslink{
+        text-decoration: none;
+        color: #5624d0;
+        text-align: center;
+        padding-left: 500px;
+        padding-top: 320px;
+       
+    }
+
+    /* udemy business logo with list */
+
+   .content1 {
+    padding-left: 100px;
+        
+    }
+
+    .content1 > h3{
+       
+     padding-top: 10px;
+     width:80%;
+    
+    
+     } 
+
+     .content1 > ul {
+       
+        padding-left: 20px;
+     }
+     .content1 > ul > li{
+       
+        font-size: 20px;
+        line-height: 1.8;
+     }
+
+     .content1 > .udemybusi2{
+        border: 1px solid #313030;
+        
+        
+    }
+
+   /* become an instructor */
+
+   .container2head{
+
+    margin-top: 20px;
+
+   }
+
+   .content2 {
+    padding-left: 10px;
+
+        
+    }
+
+    .content2 > h3{
+       
+     padding-top: 100px;
+     width:80%;
+    
+    
+     } 
+
+    
+
+     .content2 > .strateach2{
+        margin-top: 10px;
+       
+        
+        
+    }
+
+    .content2 > h5{
+        font-family: var(--font-stack-text);
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 20px;
+    width:70%;
+    }
+   
+    /* footer */
+
+    .containfootr1{
+
+        height:300px;
+        margin-top:100px;
+        background-color:#1c1d1f;
+    }
+
+    .footer2a{
+          
+          line-height: 1.8;
+    }
+     .footer2a > ul {
+
+    list-style: none;
+
+     }
+
+     .footer2a > ul > li > a{
+
+         text-decoration: none;
+         color: white;
+      }
+
+      .footer2a > ul > li > a:hover{
+        border-bottom: 1px solid white;
+     }
+
+     .logoimgefoot{
+       margin-top: 60px;
+       margin-left: 30px;
+
+     }
+
+    .language2{
+      
+        border: 1px solid #ffffff;
+        height: 40px;
+        width: 150px;
+        margin-left: 100px;
+        font-size: 18px;
+        
+    }
+
+    .copyrght{
+        color: white;
+        margin-left: 145px;
+        margin-top: 165px;
+        font-size: 12px;
+    }
