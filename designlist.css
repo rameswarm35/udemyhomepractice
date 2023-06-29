@@ -1,0 +1,84 @@
+
+
+/* list courses */
+
+
+.contain2{
+
+    width: 100%;
+    margin-top:2%;
+}
+
+.headcourse{
+
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+.headingcourse{
+    text-decoration: none;
+}
+
+.head1{
+    color: black;
+    margin-left: 120px;
+    font-size: 20px;
+}
+
+.subheading1{
+    color: black;
+    margin-left: 120px;
+    width: 90%;
+    font-size: 13x;
+}
+.subheading2{
+    color:gray;
+    margin-left: 120px;
+    
+    font-size: 15px;
+}
+
+.review1 {
+    font-size: 16px;
+    color:#e69c2c;
+    font-weight: 600;
+    margin-left: 120px;
+}
+.enrolno1 {
+    font-size:14px;
+    color:grey;
+}
+.pricecourse1 {
+    font-weight: 600;
+    font-size: 20px;
+    color:black;
+}
+
+.subheading3{
+    color:gray;
+    margin-left: 120px;
+    
+    font-size: 15px;
+    line-height: 0;
+}
+.badgehead{
+    margin-left: 120px;
+    margin-top: 10px;
+
+}
+.pricecourse2 {
+    font-weight: 600;
+    font-size: 20px;
+    color:black;
+    line-height: 0;
+    margin-left: 100px;
+    margin-top: 10px;
+    
+}
+.delete2 {
+    font-size:14px;
+    color:grey;
+    margin-left: 100px;
+    font-size: 15px;
+   
+}
